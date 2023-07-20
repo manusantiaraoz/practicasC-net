@@ -1,0 +1,15 @@
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.csproj.AssemblyReference.cache
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.AssemblyInfoInputs.cache
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.AssemblyInfo.cs
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.csproj.CoreCompileInputs.cache
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\bin\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.exe
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\bin\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.deps.json
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\bin\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.runtimeconfig.json
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\bin\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.dll
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\bin\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.pdb
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.dll
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\refint\guardar archivos_santi_araoz_D_Emmanuel.dll
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.pdb
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\guardar archivos_santi_araoz_D_Emmanuel.genruntimeconfig.cache
+C:\Users\ROG BY NG\source\repos\guardar archivos_santi_araoz_D_Emmanuel\obj\Debug\net6.0\ref\guardar archivos_santi_araoz_D_Emmanuel.dll

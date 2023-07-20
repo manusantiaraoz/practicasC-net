@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "guardar archivos_santi_araoz_D_Emmanuel/1.0.0": {
+        "runtime": {
+          "guardar archivos_santi_araoz_D_Emmanuel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guardar archivos_santi_araoz_D_Emmanuel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
